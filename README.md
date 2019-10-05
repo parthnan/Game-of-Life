@@ -3,7 +3,7 @@ Conway's Game of Life created using Java GUI. Press Next button to show next gen
 
 The colors of the alive cells are as follows: Dark Green if 1 neighbour, Green if 2/3 neighbours, Brown if 4,5 neighbours, Black if 6,7,8 neighbours.
 
-There are buttons at the bottom for Undo, Redo and Animation! Next generation shown in new frame, every 0.25 seconds. An example of usage of Undo and Redo is as below.
+There are buttons at the bottom for Undo, Redo and Animation! Next generation shown in new frame, every 0.25 seconds. An example of usage of Undo is as below. We press Next in the slides 1-3, and the Fourth side is immediately after the Undo.
 
 ![UndoExample.png](https://raw.githubusercontent.com/parthnan/Game-of-Life/master/UndoExample.png)
 
