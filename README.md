@@ -14,4 +14,4 @@ You can change the Conway's rules in a dialog box. Example: when you change the 
 
 Each cell bordering an alive cell comes alive!
 
-<img src="https://raw.githubusercontent.com/parthnan/Game-of-Life/master/AlwaysReproducing.png" width="700px" align="middle">
+<img src="https://raw.githubusercontent.com/parthnan/Game-of-Life/master/AlwaysReproducing.png" width="500px" align="middle">
